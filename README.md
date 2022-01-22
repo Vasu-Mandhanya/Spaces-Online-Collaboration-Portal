@@ -1,0 +1,2 @@
+# Spaces-Online-Collaboration-Portal
+Spaces aims to be the go to platform for those working from home by providing features such as an online code editor and video conferencing. Other features include a personalised calendar, team goals, task manager and resource management. It also doubles as a project management website allowing the Space Admin to manage teams and also plan, schedule as well as estimate costs for any project.
